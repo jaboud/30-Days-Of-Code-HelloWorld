@@ -6,7 +6,10 @@ namespace _30_Days_Of_Code_HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Prints out "Hello, World." & "Welcome to 30 Days of Code!" in the console.
+            Console.WriteLine("Hello, World.");
+            Console.WriteLine("Welcome to 30 Days of Code!");
         }
+    }
     }
 }
