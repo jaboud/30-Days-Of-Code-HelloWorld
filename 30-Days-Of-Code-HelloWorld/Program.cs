@@ -9,6 +9,8 @@ namespace _30_Days_Of_Code_HelloWorld
             //Prints out "Hello, World." & "Welcome to 30 Days of Code!" in the console.
             Console.WriteLine("Hello, World.");
             Console.WriteLine("Welcome to 30 Days of Code!");
+            //To prevent the console from automatically closing upon completion of program
+            Console.Read();
         }
     }
     }
